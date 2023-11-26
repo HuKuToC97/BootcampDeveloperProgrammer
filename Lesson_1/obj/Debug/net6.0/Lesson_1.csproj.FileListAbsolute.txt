@@ -1,0 +1,15 @@
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.csproj.AssemblyReference.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.AssemblyInfo.cs
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\bin\Debug\net6.0\Lesson_1.exe
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\bin\Debug\net6.0\Lesson_1.deps.json
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\bin\Debug\net6.0\Lesson_1.runtimeconfig.json
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\bin\Debug\net6.0\Lesson_1.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\bin\Debug\net6.0\Lesson_1.pdb
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\refint\Lesson_1.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.pdb
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\Lesson_1.genruntimeconfig.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Буткемп програмирование\Lesson_1\obj\Debug\net6.0\ref\Lesson_1.dll
