@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\Lesson_1.csproj",
-      "projectName": "Lesson_1",
-      "projectPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\Lesson_1.csproj",
+      "projectUniqueName": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_2\\Lesson_2.csproj",
+      "projectName": "Lesson_2",
+      "projectPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_2\\Lesson_2.csproj",
       "packagesPath": "C:\\Users\\ЖиНа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\obj\\",
+      "outputPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ЖиНа\\AppData\\Roaming\\NuGet\\NuGet.Config",

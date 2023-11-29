@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\ЖиНа\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\Lesson_1.csproj",
-      "projectName": "Lesson_1",
-      "projectPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\Lesson_1.csproj",
+      "projectUniqueName": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_3\\Lesson_3.csproj",
+      "projectName": "Lesson_3",
+      "projectPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_3\\Lesson_3.csproj",
       "packagesPath": "C:\\Users\\ЖиНа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\obj\\",
+      "outputPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ЖиНа\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -56,30 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.25, 6.0.25]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

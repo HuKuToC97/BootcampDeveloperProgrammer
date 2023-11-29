@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bdzEbtcoQgsykaSQcSyznmmevhnhGAJ/LK3yd8got9pugDVTrBofFS/tUY1rXMuK/80I+lPBXzwwI2X31dgRw==",
+  "dgSpecHash": "H5R7dZ3Zgis14tAvQQi1k0f2anzJSK7mG/FzSqtFPBdJMduxB6Sgj9fiy8WGBG06ZHZXEzXPUxLrQcB2jVrRFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_1\\Lesson_1.csproj",
+  "projectFilePath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Буткемп програмирование\\Lesson_2\\Lesson_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ЖиНа\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\ЖиНа\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
