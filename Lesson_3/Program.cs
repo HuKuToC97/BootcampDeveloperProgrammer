@@ -1,19 +1,35 @@
-﻿System.Console.Write("Введите число до которого вывести табл. умножения: ");
-int m = Convert.ToInt32(System.Console.ReadLine());
-int[,] matrix = new int[m, m];
-for (int i = 0; i < m; i++)
+﻿
+
+internal class Program
 {
-    for (int j = 0; j < m; j++)
+    private static void Main(string[] args)
     {
-        matrix[i, j] = (i + 1) * (j + 1);
-        matrix[j, i] = (i + 1) * (j + 1);
+        void SortSelection(int[] collection)
+        {
+            int size = collection.Length;
+            for (int i = 0; i < size - 1; i++)
+            {
+                int pos = i;
+                for (int j = i+1; j < size; j++)
+                {
+                    if (collection[j] < collection[pos]) pos = j;
+
+                }
+                int temp = collection[i];
+                collection[i] = collection[pos];
+                collection[pos] = temp;
+
+            }
+        }
+        
+        
+        int[] array = [1, 3, 2, 6, 3, 5, 3];
+
+        System.Console.WriteLine($"[{string.Join(" ", array)}]");
+        SortSelection(array);
+        System.Console.WriteLine($"[{string.Join(" ", array)}]");
+
+
+
     }
-}
-for (int i = 0; i < m; i++)
-{
-    for (int j = 0; j < i+1; j++)
-    {
-        System.Console.Write($"{matrix[i, j]}\t");
-    }
-    System.Console.WriteLine();
 }
